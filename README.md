@@ -34,7 +34,7 @@ see how it works by walking through some code.
 ### Cause a Change to Given Code So That DOM Updating Effect Is Seen
 
 Meet our app, Simple Liker! It demos the favoriting action we've talked about
-and alerts you to what is happening at each step of the process. When all is
+and alerts you to what is happening at each step of the process. When all is 
 working as it should, the action looks like this:
 
 ![working example of favoriting a post][three-pillars-example-working]
